@@ -14,7 +14,6 @@ Let us analyse the following passwords using various tools.
 | `xT7!pL#9@wQs`        | 12     | ✅     | ✅     | ✅      | ✅      | 
 | `9&Lu@z1^Wr!qMveT`    | 16     | ✅     | ✅     | ✅      | ✅      | 
 
-
 ### https://passwordmeter.com/
 
 | Password Example      | Score | Complexity |
@@ -35,7 +34,7 @@ Let us analyse the following passwords using various tools.
 | `xT7!pL#9@wQs`        | 3 years | Strong | 
 | `9&Lu@z1^Wr!qMveT`    | Centuries | Strong |
 
-### Tips Learned from Evaluation
+## Tips Learned from Evaluation
 
 - Avoid short passwords, even with numbers (e.g., pass123 is too weak).
 - Avoid common patterns and words – Welcome2024 looks good but is easy to guess.
@@ -46,7 +45,14 @@ Let us analyse the following passwords using various tools.
 - Longer = stronger – passwords with 16+ characters are much harder to crack.
 - Password managers can help generate and store strong, unique passwords.
 
-### Best practices for creating strong passwords
+## How Password Complexity Affects Security
+
+- Length and randomness are key: the longer and more random a password, the harder it is to crack.
+- Complex passwords (including all character types) drastically increase crack time, making brute-force and dictionary attacks impractical.
+- Predictable passwords, even if they seem complex (like Welcome2024), are still vulnerable due to pattern recognition and breach data.
+- High-entropy passwords like 9&Lu@z1^Wr!qMveT offer the best protection against all common password attacks.
+
+## Best practices for creating strong passwords
 
 - The password should be at least 12-15 characters long.
 - It should use a combination of letters, numbers, and special characters. Spaces are also allowed.
@@ -54,14 +60,7 @@ Let us analyse the following passwords using various tools.
 - It should be a combination that only you know and others could not easily predict.
 - Each password should be unique and you shouldn’t reuse them for several accounts.
 
-### Summary: How Password Complexity Affects Security
-
-- Length and randomness are key: the longer and more random a password, the harder it is to crack.
-- Complex passwords (including all character types) drastically increase crack time, making brute-force and dictionary attacks impractical.
-- Predictable passwords, even if they seem complex (like Welcome2024), are still vulnerable due to pattern recognition and breach data.
-- High-entropy passwords like 9&Lu@z1^Wr!qMveT offer the best protection against all common password attacks.
-
-### Common password attacks
+## Common password attacks
 
 **1. Brute force attack**
 - It is the method of generating or guessing passwords and then attempting to use them until attackers eventually gain access.
